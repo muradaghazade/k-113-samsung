@@ -1,0 +1,64 @@
+.navbar {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: white !important;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.btn {
+    font-weight: bold;
+    border-radius: 15px !important;
+}
+
+.btn:hover {
+    color: white !important;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.search-btn {
+    background: transparent;
+    border: none;
+}
+
+.samsung-tabs {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.tab-header {
+    font-weight: bold;
+}
+
+.nav-pills {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link1 {
+    border: none !important;
+    background-color: white !important;
+    margin: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 0px !important;
+    outline: none !important;
+    color: black !important;
+}
+
+.nav-link1:hover {
+    color: gray !important;
+}
+
+.nav-item .active {
+    border-bottom: 2px solid black !important;
+}
